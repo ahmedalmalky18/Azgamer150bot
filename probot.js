@@ -846,4 +846,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("token Your Bot Here");
+client.login("NDk0MTUwODcyNDk4OTYyNDM1.DqscxA.0vQjgSQH3ZsZ_lV4v1jCLQzcBDY");
